@@ -28,7 +28,7 @@ ErrorReturn = 9.99999999E+98
 
 
 pcm="F12347_ALL_ideal_uy160921r0a.py"
-fname= 'Data_Trho_for_w_160426.txt'
+fname= 'C:/DOCS/work/research/a met_refFns_cov/cov_python/Data_Trho_for_w_160426.txt'
 with open(fname, 'r') as f:
     header1 = f.readline()
 #    header2 = f.readline()
